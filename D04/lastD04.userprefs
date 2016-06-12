@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TVScirpt.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RingTmpScript.cs" Line="26" Column="2" />
+      <File FileName="Assets/Scripts/Sonic.cs" Line="260" Column="1" />
+      <File FileName="Assets/Scripts/RingsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpikeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StageSelecteScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LvlFinishScript.cs" Line="43" Column="13" />
+      <File FileName="Assets/Scripts/UnlockScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TVScirpt.cs" Line="41" Column="66" />
+      <File FileName="Assets/Scripts/GUIScoreScript.cs" Line="30" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
